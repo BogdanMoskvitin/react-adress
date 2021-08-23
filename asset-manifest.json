@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-adress/static/css/main.83c27817.chunk.css",
+    "main.js": "/react-adress/static/js/main.813b767e.chunk.js",
+    "main.js.map": "/react-adress/static/js/main.813b767e.chunk.js.map",
+    "runtime-main.js": "/react-adress/static/js/runtime-main.2fc839b5.js",
+    "runtime-main.js.map": "/react-adress/static/js/runtime-main.2fc839b5.js.map",
+    "static/js/2.815b12c8.chunk.js": "/react-adress/static/js/2.815b12c8.chunk.js",
+    "static/js/2.815b12c8.chunk.js.map": "/react-adress/static/js/2.815b12c8.chunk.js.map",
+    "static/js/3.2a812596.chunk.js": "/react-adress/static/js/3.2a812596.chunk.js",
+    "static/js/3.2a812596.chunk.js.map": "/react-adress/static/js/3.2a812596.chunk.js.map",
+    "index.html": "/react-adress/index.html",
+    "static/css/main.83c27817.chunk.css.map": "/react-adress/static/css/main.83c27817.chunk.css.map",
+    "static/js/2.815b12c8.chunk.js.LICENSE.txt": "/react-adress/static/js/2.815b12c8.chunk.js.LICENSE.txt",
+    "static/media/calendar.b438cff0.svg": "/react-adress/static/media/calendar.b438cff0.svg",
+    "static/media/exit.e753b457.svg": "/react-adress/static/media/exit.e753b457.svg",
+    "static/media/finance.2c816d68.svg": "/react-adress/static/media/finance.2c816d68.svg",
+    "static/media/home.64ec2f26.svg": "/react-adress/static/media/home.64ec2f26.svg",
+    "static/media/logo.66930149.svg": "/react-adress/static/media/logo.66930149.svg",
+    "static/media/map.7703ccf1.svg": "/react-adress/static/media/map.7703ccf1.svg",
+    "static/media/search-black.d8347e49.svg": "/react-adress/static/media/search-black.d8347e49.svg",
+    "static/media/search-white.3f7818f3.svg": "/react-adress/static/media/search-white.3f7818f3.svg",
+    "static/media/setting.5f34416c.svg": "/react-adress/static/media/setting.5f34416c.svg",
+    "static/media/table.76ca1b0d.svg": "/react-adress/static/media/table.76ca1b0d.svg",
+    "static/media/triangle.fe04bfe8.svg": "/react-adress/static/media/triangle.fe04bfe8.svg",
+    "static/media/user-round.b085495d.svg": "/react-adress/static/media/user-round.b085495d.svg",
+    "static/media/user.7d428781.svg": "/react-adress/static/media/user.7d428781.svg",
+    "static/media/vidget.c9299d23.svg": "/react-adress/static/media/vidget.c9299d23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc839b5.js",
+    "static/js/2.815b12c8.chunk.js",
+    "static/css/main.83c27817.chunk.css",
+    "static/js/main.813b767e.chunk.js"
+  ]
+}
